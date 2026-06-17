@@ -54,7 +54,7 @@ Seorang **Web Developer** lulusan S1 Informatika dengan pengalaman membangun sis
 
 > Sistem manajemen audit terintegrasi per departemen untuk berbagai jenis audit perusahaan
 
-![Dashboard Audit](screenshots/audit-sistem/audit.png)
+![Dashboard Audit](screenshots/sistem-audit/audit.png)
 
 **Fitur:**
 
